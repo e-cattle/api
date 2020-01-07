@@ -6,3 +6,6 @@
 components/
 
 _site/
+
+*.log
+*.lock

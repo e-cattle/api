@@ -1,7 +1,7 @@
 {
-    "name": "carte",
-    "description": "Simple API reference",
-    "version": "0.0.1",
+    "name": "e-Cattle",
+    "description": "Embrapa's IoT platform to precision livestock",
+    "version": "1.20.1",
     "local": ["boot"],
     "paths": ["lib"]
 }
