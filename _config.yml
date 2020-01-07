@@ -1,6 +1,8 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-pygments: true
+pygments: false
+rouge: true
+highlighter: 'rouge'
 safe: false
 title: 'e-Cattle'
